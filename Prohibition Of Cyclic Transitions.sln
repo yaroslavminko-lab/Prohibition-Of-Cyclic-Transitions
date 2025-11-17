@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36602.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prohibition Of Cyclic Transitions", "Prohibition Of Cyclic Transitions\Prohibition Of Cyclic Transitions.csproj", "{0057EE4C-CAAC-4F0F-805C-70B026B864C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0057EE4C-CAAC-4F0F-805C-70B026B864C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0057EE4C-CAAC-4F0F-805C-70B026B864C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0057EE4C-CAAC-4F0F-805C-70B026B864C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0057EE4C-CAAC-4F0F-805C-70B026B864C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3ADEA070-5956-4D80-8C42-5C37694A6F36}
+	EndGlobalSection
+EndGlobal
