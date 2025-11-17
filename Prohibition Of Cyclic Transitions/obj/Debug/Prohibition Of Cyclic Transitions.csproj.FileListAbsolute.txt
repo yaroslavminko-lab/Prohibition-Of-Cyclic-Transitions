@@ -1,0 +1,7 @@
+D:\Work\Innowise\Prohibition-Of-Cyclic-Transitions\Prohibition Of Cyclic Transitions\bin\Debug\Prohibition Of Cyclic Transitions.exe.config
+D:\Work\Innowise\Prohibition-Of-Cyclic-Transitions\Prohibition Of Cyclic Transitions\bin\Debug\Prohibition Of Cyclic Transitions.exe
+D:\Work\Innowise\Prohibition-Of-Cyclic-Transitions\Prohibition Of Cyclic Transitions\bin\Debug\Prohibition Of Cyclic Transitions.pdb
+D:\Work\Innowise\Prohibition-Of-Cyclic-Transitions\Prohibition Of Cyclic Transitions\obj\Debug\Prohibition Of Cyclic Transitions.csproj.AssemblyReference.cache
+D:\Work\Innowise\Prohibition-Of-Cyclic-Transitions\Prohibition Of Cyclic Transitions\obj\Debug\Prohibition Of Cyclic Transitions.csproj.CoreCompileInputs.cache
+D:\Work\Innowise\Prohibition-Of-Cyclic-Transitions\Prohibition Of Cyclic Transitions\obj\Debug\Prohibition Of Cyclic Transitions.exe
+D:\Work\Innowise\Prohibition-Of-Cyclic-Transitions\Prohibition Of Cyclic Transitions\obj\Debug\Prohibition Of Cyclic Transitions.pdb

@@ -10,6 +10,19 @@ namespace Prohibition_Of_Cyclic_Transitions
     {
         static void Main(string[] args)
         {
+            var workOrder = new WorkOrder(Status.Черновик, DateTime.Now);
+
+            workOrder.SetCurrentStatus(Status.Активен);
+
+            workOrder.SetCurrentStatus(Status.Черновик);
+
+            workOrder = new WorkOrder(Status.Проверено, DateTime.Now.AddHours(-25));
+
+            workOrder.SetCurrentStatus(Status.Активен);
+
+            workOrder.SetCurrentStatus(Status.Черновик);
+
+            Console.ReadKey();
         }
     }
 }
