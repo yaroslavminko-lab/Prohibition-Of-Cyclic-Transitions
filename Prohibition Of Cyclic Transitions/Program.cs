@@ -10,7 +10,7 @@ namespace Prohibition_Of_Cyclic_Transitions
     {
         static void Main(string[] args)
         {
-            var workOrder = new WorkOrder(Status.Черновик);
+            var workOrder = new WorkOrder();
 
             workOrder.CurrentStatus = Status.Активен;
 
